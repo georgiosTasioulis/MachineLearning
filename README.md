@@ -10,3 +10,7 @@ File 4 CNN hosts a Convolutional Neural Network for Image Recognition
 
 Folder 5 Pre Trained CNN hosts a pre-trained Convolutional Neural Network for Image Recognition. Some sample pictures which the CNN regognises are also provided
 
+File 6 RNN hosts a Recursive Neural Network for Image Recognition
+
+File 7 GAN hosts a Generative Adversarial Network for Image Recognition
+
