@@ -1,4 +1,4 @@
-# MachineLearning - Programming Language: Python
+# Machine Learning - Programming Language: Python
 
 File 1 Single Layer Perceptron hosts a Single Layer Perceptron for Image Recognition
 
